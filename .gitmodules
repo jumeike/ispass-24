@@ -1,0 +1,4 @@
+[submodule "CAL-DPDK-GEM5"]
+	path = CAL-DPDK-GEM5
+	url = https://github.com/jumeike/CAL-DPDK-GEM5
+	branch = pcap
